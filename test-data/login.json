@@ -1,0 +1,28 @@
+{
+    "qa": {
+        "baseUrl": "https://www.saucedemo.com/",
+        "loginCredentials": [            
+                {
+                    "username": "standard_user",
+                    "password": "secret_sauce"
+                },
+                {
+                    "username": "problem_user",
+                    "password": "secret_sauce"
+                }            
+        ]
+    },
+    "dev": {
+        "baseUrl": "https://www.saucedemo.com/",
+        "loginCredentials": [            
+                {
+                    "username": "standard_user",
+                    "password": "secret_sauce"
+                },
+                {
+                    "username": "problem_user",
+                    "password": "secret_sauce"
+                }            
+        ]
+    }
+}
